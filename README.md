@@ -28,9 +28,12 @@ style.css-          External CSS for layout and design
 script.js-          JavaScript logic and event handling
 
 
-I used AI (ChatGPT) to help me understand and complete the following parts of this project:
+AI Usage:
 
 - How to compare user answers and correct answers using `.toLowerCase()` for case-insensitive string matching in JavaScript.
+
 - How to use `localStorage` to store the quiz score and display it on another page (`results.html`).
+
 - How to use `window.location.href` to redirect to a new page after finishing the quiz.
+
 - How `window.onload` works to automatically run `loadQuestion()` when the page loads.
