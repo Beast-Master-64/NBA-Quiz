@@ -1,5 +1,3 @@
-// ChatGPT helped create quiz logic and event handling
-
 const quizData = [
   {
     question: "Who is this player?",
@@ -35,18 +33,23 @@ function loadQuestion() {
 
 submitBtn.addEventListener("click", () => {
   const userAnswer = answerInput.value.trim();
+
+  // AI helped me understand how to compare strings in a case-insensitive way
   if (userAnswer.toLowerCase() === quizData[currentQuestion].answer.toLowerCase()) {
     score++;
   }
 
   currentQuestion++;
+
   if (currentQuestion < quizData.length) {
     loadQuestion();
   } else {
+    // AI showed me how to use localStorage to pass the score to another page
     localStorage.setItem("nbaScore", score);
-    console.log(`You got ${score} out of ${quizData.length} correct!`);
-    window.location.href = "results.html";
+
+    window.location.href = "results.html"; // AI helped me figure out how to redirect with JS
   }
 });
 
+// AI helped me understand how window.onload ensures the first question is loaded when the page opens
 window.onload = loadQuestion;
