@@ -47,5 +47,7 @@ Credits / Resources:
 
  - JavaScript reference: [MDN Web Do](https://developer.mozilla.org/en-US/)
 
+ - Gavin Johnson (How to add images to website)
+
  - AI assistance from ChatGPT (as noted above and in code comments)
 
