@@ -43,9 +43,9 @@ Credits / Resources:
 
  - NBA player images (used locally from images/ folder)
 
- - Flexbox layout guide from CSS Tricks
+ - Flexbox layout guide from https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
- - JavaScript reference: MDN Web Docs
+ - JavaScript reference: [MDN Web Do](https://developer.mozilla.org/en-US/)
 
  - AI assistance from ChatGPT (as noted above and in code comments)
 
