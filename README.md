@@ -4,13 +4,14 @@ This is a fun and interactive NBA quiz game built with HTML, CSS, and JavaScript
 Project Description:
 The NBA Player Quiz is a web-based game created as my final project for AP Computer Science Principles. It presents a short series of questions about NBA players based on their headshots. The user types in their answers, and at the end of the quiz, the site displays how many questions were answered correctly.
 How to Use the Website:
-Open the quiz 
 
-A picture of an NBA player will appear with a question.
+  1. Open the quiz 
 
-Type the player's name into the input box and click "Submit."
+  2. A picture of an NBA player will appear with a question.
 
-After three questions, you’ll be taken to the results page to see how many you got correct.
+  3. Type the player's name into the input box and click "Submit."
+
+  4. After three questions, you’ll be taken to the results page to see how many you got correct.
 
 
 
