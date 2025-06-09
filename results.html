@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Quiz Results</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Quiz Complete!</h1>
+  <p id="score-output" class="results-info"></p>
+  <a href="index.html">Play Again</a>
+
+  <script>
+    const score = localStorage.getItem("nbaScore");
+    const total = 3; // Total number of questions in quizData
+    const message = score !== null
+      ? `You got ${score} out of ${total} correct!`
+      : `No score found.`;
+
+    document.getElementById("score-output").textContent = message;
+    localStorage.removeItem("nbaScore"); // Optional: clear after showing
+  </script>
+</body>
+</html>
