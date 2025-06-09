@@ -20,10 +20,12 @@ How to Use the Website:
 File Structure:
 
 index.html-         Main quiz page
+
 results.html-       Page showing the final score
+
 style.css-          External CSS for layout and design
+
 script.js-          JavaScript logic and event handling
-screenshot.png-     Screenshot of the site (optional)
 
 
 I used AI (ChatGPT) to help me understand and complete the following parts of this project:
