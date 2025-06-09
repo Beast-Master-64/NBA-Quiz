@@ -17,15 +17,13 @@ How to Use the Website:
   4. After three questions, you’ll be taken to the results page to see how many you got correct.
 
 
+File Structure:
 
-How to Use the Website:
-Open the quiz on the Live Site (replace with your GitHub Pages link).
-
-A picture of an NBA player will appear with a question.
-
-Type the player's name into the input box and click "Submit."
-
-After three questions, you’ll be taken to the results page to see how many you got correct.
+index.html-         Main quiz page
+results.html-       Page showing the final score
+style.css-          External CSS for layout and design
+script.js-          JavaScript logic and event handling
+screenshot.png-     Screenshot of the site (optional)
 
 
 I used AI (ChatGPT) to help me understand and complete the following parts of this project:
