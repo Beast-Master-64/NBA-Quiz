@@ -30,10 +30,22 @@ script.js-          JavaScript logic and event handling
 
 AI Usage:
 
-- How to compare user answers and correct answers using `.toLowerCase()` for case-insensitive string matching in JavaScript.
+ - How to compare user answers and correct answers using `.toLowerCase()` for case-insensitive string matching in JavaScript.
 
-- How to use `localStorage` to store the quiz score and display it on another page (`results.html`).
+ - How to use `localStorage` to store the quiz score and display it on another page (`results.html`).
+ 
+ - How to use `window.location.href` to redirect to a new page after finishing the quiz.
 
-- How to use `window.location.href` to redirect to a new page after finishing the quiz.
+ - How `window.onload` works to automatically run `loadQuestion()` when the page loads.
 
-- How `window.onload` works to automatically run `loadQuestion()` when the page loads.
+
+Credits / Resources:
+
+ - NBA player images (used locally from images/ folder)
+
+ - Flexbox layout guide from CSS Tricks
+
+ - JavaScript reference: MDN Web Docs
+
+ - AI assistance from ChatGPT (as noted above and in code comments)
+
