@@ -7,6 +7,10 @@ Project Description:
 The NBA Player Quiz is a web-based game created as my final project for AP Computer Science Principles. It presents a short series of questions about NBA players based on their headshots. The user types in their answers, and at the end of the quiz, the site displays how many questions were answered correctly.
 <img width="1460" alt="Screenshot 2025-06-08 at 11 25 43 PM" src="https://github.com/user-attachments/assets/c6e747ce-1c71-47d9-822a-c3ffe6017010" />
 
+Link to the video:
+How to use the website: [![Watch the demo](<img width="1470" alt="NBA-Memory-Game" src="https://github.com/user-attachments/assets/61a61f48-eb58-4933-8cfc-2a24e3c7884e" />
+](https://www.youtube.com/watch?v=iwBvhZ8TvlE)
+
 How to Use the Website:
 
   1. Open the quiz 
